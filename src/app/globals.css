@@ -10,6 +10,20 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /*Cores*/
+  --color-primary: #633CFF;
+  --color-primary_neutral1: #2A2E34;
+  --color-primary_neutral2: #16132D;
+  --color-secondary_highlight1: #7400D3;
+  --color-secondary_highlight2: #E800C8;
+  --color-secondary_feedback1: #388E3C;
+  --color-secondary_feedback2: #D32F2F;
+
+  /*Fonts*/
+  --font-lastica: 'lastica', sans-serif;
+  --font-montserrat: 'montserrat', sans-serif;
+  --font-monument: 'monument', sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
